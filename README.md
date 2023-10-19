@@ -46,5 +46,3 @@ Penjelasan lengkap tentang cara melakukannya langkah demi langkah ditampilkan di
 ## Lisensi
 
 Proyek ini berada di bawah lisensi MIT. Ini berarti Anda dapat menggunakannya sesuai keinginan (hanya saja, jangan hapus header pustaka).
-
-## Kontribusi
